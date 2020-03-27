@@ -1,6 +1,6 @@
 .container1{
     background-color: black;
-    width: 1583px;
+    width: 100% ! important;
     height: 300px;
     text-align: center;
     z-index: 5;
@@ -27,7 +27,7 @@
 .container3{
     position: relative;
     top: 60px;
-    width: 1583px;
+    width: 100% ! important;
     height: 300px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -63,7 +63,7 @@ a:hover{
 .container4{
     position: relative;
     top: 60px;
-    width: 1583px;
+    width: 100% ! important;
     height: 300px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -79,7 +79,7 @@ a:hover{
 .container5{
     position: relative;
     top: 60px;
-    width:1583px;
+    width: 100% ! important;
     height: 400px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -93,7 +93,7 @@ a:hover{
 
 .footer{
 
-    width: 1583px;
+    width: 100% ! important;
     height: 60px;
     background-color: rgba(197, 222, 215,0.6);
     text-align: center;
