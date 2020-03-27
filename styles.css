@@ -92,7 +92,8 @@ a:hover{
 /*--------------------------------------------------------------------------------*/
 
 .footer{
-
+    position: fixed;
+    bottom: 0px;
     width: 100% ! important;
     height: 60px;
     background-color: rgba(197, 222, 215,0.6);
