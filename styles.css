@@ -61,12 +61,14 @@ a{
 }
 a:hover{
 }
-
+img:hover{
+    color:gold;
+}
 hr {
     border: 1px solid #1abb9c !important;
     margin-bottom: 100px !important;
     margin-top: 100px !important;
-    width: 30%;
+    width: 35%;
 }
 /*--------------------------------------------------------------------------------*/
 
@@ -124,6 +126,30 @@ hr {
     z-index: 0;
 
 }
+/*--------------------------------------------------------------------------------*/
+
+.container8{
+    position: relative;
+    top: 60px;
+    width: 100% ! important;
+    height: 600px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 0;
+
+}
+
+/*--------------------------------------------------------------------------------*/
+.container9{
+    position: relative;
+    top: 40px;
+    width: 100% ! important;
+    height: 400px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 0;
+
+}
 
 /*--------------------------------------------------------------------------------*/
 
@@ -132,7 +158,7 @@ hr {
     bottom: 0px;
     width: 100% ! important;
     height: 60px;
-    background-color: rgba(197, 222, 215,0.8);
+    background-color: rgba(197, 222, 215,1);
     text-align: center;
 }
 .footer p{
@@ -144,6 +170,7 @@ hr {
     position: relative;
     top: 50px;
     width: 95%;
+    height: 1500px;
     left: 2.5%;
 }
 .discotab thead p{
