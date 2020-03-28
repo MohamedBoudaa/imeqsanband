@@ -166,11 +166,12 @@ hr {
     color: #00bdaa
 }
 /*--------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------*/
 .discotab{
     position: relative;
     top: 50px;
     width: 95%;
-    height: 1500px;
+    height: 1600px;
     left: 2.5%;
     font-family: 'Dosis', sans-serif;
     font-size: 22px;
@@ -189,4 +190,56 @@ hr {
     line-height: 63px !important; 
     vertical-align:middle !important;
 
+}
+
+/*--------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------*/
+.row1{
+    width: 100% ! important;
+}
+.members{
+    position: relative;
+    top: 80px;
+}
+
+.members h1{
+    position: relative;
+    left: 120px;
+    color: #5ea3a3;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px !important;
+    margin-bottom: 30px !important;
+}
+.members p{
+    position: relative;
+    left: 120px;
+    top: 30px;
+}
+.achraf{
+    display: inline-block !important;
+    width: 50%;
+    border-radius: 200px;
+    position: relative;
+    left: 20px;
+}
+.Kamal{
+    display: inline-block !important;
+    width: 50%;
+    border-radius: 300px;
+    position: absolute;
+    left: 550px;
+    top: 0px;
+}
+.imad{
+    display: inline-block !important;
+    width: 50%;
+    border-radius: 800px;
+    position: absolute;
+    left: 1100px;
+    top: 0px;
+}
+/*--------------------------------------------------------------------------------*/
+.row2{
+    width: 100% ! important;
+    height: 600px !important;
 }
