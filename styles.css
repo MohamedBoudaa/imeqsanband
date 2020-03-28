@@ -172,6 +172,8 @@ hr {
     width: 95%;
     height: 1500px;
     left: 2.5%;
+    font-family: 'Dosis', sans-serif;
+    font-size: 22px;
 }
 .discotab thead p{
     font-family: 'Dosis', sans-serif;
@@ -182,7 +184,8 @@ hr {
 
 }
 .table{
-   
+    border-collapse:separate; 
+    border-spacing: 1px 1px;
     line-height: 63px !important; 
     vertical-align:middle !important;
 
