@@ -118,14 +118,32 @@
 }
 
 /*--------------------------------------------------------------------------------*/
-/*--------------------------------------------------------------------------------*/
+/*--------------------About us--------------------------------------------------*/
 /*--------------------------------------------------------------------------------*/
 
 .bandbackground{
-    height: 900px;
+    text-align: center;
+    height: 1000px;
     width: 100%;
     background-image: url("images/imgband.jpg");
-     background-color: #cccccc;
+    background-size: 105%;
 
+}
+
+.bloc1{
     
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    height: 80%;
+    width: 80%;
+    background-color: rgba(0,0,0, 0.9);
+}
+.bloc1 p{
+    margin: 80px;
+    line-height: 3;
+    position: relative;
+    top: 50px;
+    color:white ;
+    font-size: 24px;
 }
