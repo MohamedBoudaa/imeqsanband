@@ -33,8 +33,6 @@
 }
 .imad{
     text-align: center;
-    position: relative;
-    top: 23px;
     display: inline-block !important;
     width: 33%;
     height: 500px;
@@ -117,4 +115,17 @@
     width: 320.453px;
     border-radius: 300px;
 
+}
+
+/*--------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------*/
+
+.bandbackground{
+    height: 900px;
+    width: 100%;
+    background-image: url("images/imgband.jpg");
+     background-color: #cccccc;
+
+    
 }
