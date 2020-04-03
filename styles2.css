@@ -125,7 +125,7 @@
     text-align: center;
     height: 1200px;
     width: 100%;
-    background-image: url("images/imgband.jpg");
+/*    background-size: cover;*/
     background-size: 105%;
 
 }
@@ -135,7 +135,7 @@
     display: inline-block;
     position: relative;
     top: 100px;
-    height: 80%;
+    padding: 40px;
     width: 80%;
     background-color: rgba(0,0,0, 0.6);
 }

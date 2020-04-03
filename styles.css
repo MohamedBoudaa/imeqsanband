@@ -1,5 +1,5 @@
 
-.container1{
+.container1x{
     position: relative;
     background-color: black;
     width: 100% ! important;
@@ -7,18 +7,29 @@
     text-align: center;
     z-index: 80 ;
 }
+.container1{
+    position: relative;
+    background-color: black;
+    background-image: url("images/imgband3.jpg");
+    text-align: center;
+    background-size: cover;
+    width: 100% ! important;
+    height: 600px;
+
+    z-index: 80 ;
+}
 
 .logo{
+/*    opacity: 60%;*/
     position: relative;
     bottom: 15px;
 }
 .logo2{
     position: relative;
     top: 20px;
-    left: 40%;
 }
 .topbar{
-
+    text-align: center;
     position: fixed;
     top: 0;
     background-color: black;
@@ -32,7 +43,7 @@
     position: relative;
     top: 60px;
     width: 100% ! important;
-    height: 300px;
+    height: 400px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
@@ -51,6 +62,7 @@ h4{
     margin-bottom: 30px !important;
 }
 h2{
+    
     position: relative;
     top: 50px;
     color: #393e46;
@@ -76,7 +88,7 @@ hr {
     position: relative;
     top: 60px;
     width: 100% ! important;
-    height: 500px !important;
+    height: 600px !important;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
@@ -93,7 +105,7 @@ hr {
     position: relative;
     top: 60px;
     width: 100% ! important;
-    height: 500px;
+    height: 600px !important;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
@@ -106,7 +118,7 @@ hr {
     position: relative;
     top: 60px;
     width: 100% ! important;
-    height: 550px;
+    height: 660px !important;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
@@ -120,7 +132,7 @@ hr {
     position: relative;
     top: 60px;
     width: 100% ! important;
-    height: 500px;
+    height: 600px !important;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
@@ -132,7 +144,7 @@ hr {
     position: relative;
     top: 60px;
     width: 100% ! important;
-    height: 600px;
+    height: 700px !important;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
@@ -144,7 +156,7 @@ hr {
     position: relative;
     top: 40px;
     width: 100% ! important;
-    height: 400px;
+    height: 500px !important;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
@@ -155,7 +167,7 @@ hr {
     position: relative;
     top: 40px;
     width: 100% ! important;
-    height: 400px;
+    height: 500px !important;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
