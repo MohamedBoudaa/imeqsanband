@@ -125,13 +125,13 @@
     text-align: center;
     height: 1200px;
     width: 100%;
-/*    background-size: cover;*/
+    /*    background-size: cover;*/
     background-size: 105%;
 
 }
 
 .bloc1{
-    
+
     display: inline-block;
     position: relative;
     top: 100px;
@@ -146,4 +146,37 @@
     top: 50px;
     color:white ;
     font-size: 24px;
+}
+
+/*--------------------------------------------------------------------------------*/
+/*--------------------NEWS--------------------------------------------------*/
+/*--------------------------------------------------------------------------------*/
+.newsbody{
+    padding: 20px;
+    text-align: center;
+    font-family: 'El Messiri', sans-serif;
+    font-size: 24px;
+}
+.newsbody img{
+    width: 80%;
+        box-shadow: 5px 4px 10px #dcd6f7 !important;
+
+}
+.newsbody p{
+    display: inline;
+        text-align: center;
+
+}
+.par{
+    margin-top: 30px;
+    display: inline-block;
+    width: 80% !important;
+    text-align: center;
+    direction: rtl;
+}
+.new1{
+
+    padding: 20px;
+    margin: 30px;
+    box-shadow: 5px 4px 10px #dcd6f7 !important;
 }

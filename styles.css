@@ -14,7 +14,7 @@
     text-align: center;
     background-size: cover;
     width: 100% ! important;
-    height: 600px;
+    height: 700px;
 
     z-index: 80 ;
 }
@@ -164,6 +164,19 @@ hr {
 }
 /*--------------------------------------------------------------------------------*/
 .container10{
+    position: relative;
+    top: 40px;
+    width: 100% ! important;
+    height: 500px !important;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 0;
+
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.container11{
     position: relative;
     top: 40px;
     width: 100% ! important;
